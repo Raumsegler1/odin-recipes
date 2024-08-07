@@ -6,3 +6,7 @@ body {
 #intro {
     color: yellow;
 }
+
+h1 {
+    text-align: center;
+}
